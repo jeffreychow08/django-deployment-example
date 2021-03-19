@@ -26,7 +26,7 @@ SECRET_KEY = 'e%##f*5w(rr1u*g8+^&_&t2^36x&=x7**lb5s(u+7z!ycf_-4x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['Chowbacca.pythonanywhere.com']
+ALLOWED_HOSTS = ['chowbacca.pythonanywhere.com']
 
 
 # Application definition
